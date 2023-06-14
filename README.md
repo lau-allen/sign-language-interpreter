@@ -6,6 +6,11 @@ Sign Language Interpreter Project
 
 Effective communication is one of the most important aspects in society. However, for people who rely on sign language, communication with those unfamiliar with this communication method is a difficult task. A model that is able to take a video stream from a camera as an input, and then output the letters that are being signed can be an invaluable tool. This model could be deployed to places like hospitals, schools, and government offices to help facilitate communication so that it does not represent a significant barrier.
 
+# Important Files 
+* [sign_language_interpreter.py]() - entry point to launch the sign language interpreter, which utilizes your computer webcam to retrieve hand signs as inputs to a CNN model. The result of this script is the model prediction of the signed hand. 
+* [/reports/Sign_Language_Interpreter_FinalNotebook.ipynb]() - Jupyter Notebook containing the finalized code and explanations of the data science process used to create the sign language interpreter project. 
+* [/reports/Sign_Language_Interpreter_Presentation.pdf]() - Slide deck for the presentation of the project. 
+
 Project Organization
 ------------
 
