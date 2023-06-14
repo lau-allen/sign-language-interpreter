@@ -10,8 +10,7 @@ Effective communication is one of the most important aspects in society. However
 * [/reports/Sign_Language_Interpreter_Presentation.pdf](https://github.com/lau-allen/sign-language-interpreter/blob/main/reports/Sign_Language_Interpreter_Presentation.pdf) - Slide deck for the presentation of the project. 
 
 # Additional Information
-Additional Contributors:
-Link to Original Repo: 
+Link to Original Repo: https://github.com/DataScienceAndEngineering/machine-learning-dse-i210-final-project-signlanguageclassification.git
 
 Project Organization
 ------------
